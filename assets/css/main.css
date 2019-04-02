@@ -47,8 +47,9 @@ a {
     text-decoration: none;
     transition: all 0.3s ease;
     border-bottom: 1px solid transparent;
-    color: #000;
+    color: blue;
 }
+
 a:hover, a:active {
     
 }
