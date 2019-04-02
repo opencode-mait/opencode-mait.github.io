@@ -49,6 +49,9 @@ a {
     border-bottom: 1px solid transparent;
     color: #000;
 }
+a:link {
+  color: blue;
+}
 a:hover, a:active {
     
 }
