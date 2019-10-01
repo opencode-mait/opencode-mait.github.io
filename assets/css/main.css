@@ -8,6 +8,8 @@ html {
 
 body {
   font-family: 'PT Sans', sans-serif;
+  background-color: #3F3F3F;
+  color: #FFFFFF;
   text-align: center;
   max-width: 1200px;
   margin: 0 auto;
@@ -47,7 +49,7 @@ a {
     text-decoration: none;
     transition: all 0.3s ease;
     border-bottom: 1px solid transparent;
-    color: blue;
+    color: #39CCCC;
 }
 
 a:hover, a:active {
